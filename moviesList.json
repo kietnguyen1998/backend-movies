@@ -1,0 +1,1137 @@
+{
+  "content": [
+    {
+      "maPhim": 10534,
+      "tenPhim": "PHÙ THỦY TỐI THƯỢNG TRONG ĐA VŨ TRỤ HỖN LOẠN",
+      "trailer": "https://www.youtube.com/watch?v=aWzlQ2N6qqg",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/phu-thuy-toi-thuong-trong-da-vu-tru-hon-loan_gp01.jpg",
+      "moTa": "Sau các sự kiện của Avengers: Endgame, Tiến sĩ Stephen Strange tiếp tục nghiên cứu về Viên đá Thời gian. Nhưng một người bạn cũ đã trở thành kẻ thù tìm cách tiêu diệt mọi phù thủy trên Trái đất, làm xáo trộn kế hoạch của Strange và cũng khiến anh ta mở ra một tội ác khôn lường.",
+      "ngayKhoiChieu": "2022-05-04T00:00:00",
+      "danhGia": 10,
+      "hot": true,
+      "dangChieu": true,
+      "sapChieu": false,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45786",
+                  "maRap": "480",
+                  "tenRap": "Rạp 10",
+                  "ngayChieuGioChieu": "2022-05-25T10:00:00",
+                  "giaVe": 120000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-pham-hung",
+              "tenCumRap": "BHD Star Cineplex - Phạm Hùng",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "L4-Satra Phạm Hùng, C6/27 Phạm Hùng, Bình Chánh"
+            },
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45833",
+                  "maRap": "451",
+                  "tenRap": "Rạp 1",
+                  "ngayChieuGioChieu": "2022-05-28T11:30:00",
+                  "giaVe": 75000.0,
+                  "thoiLuong": 120
+                },
+                {
+                  "maLichChieu": "45843",
+                  "maRap": "457",
+                  "tenRap": "Rạp 7",
+                  "ngayChieuGioChieu": "2022-05-10T04:41:54",
+                  "giaVe": 150000.0,
+                  "thoiLuong": 120
+                },
+                {
+                  "maLichChieu": "45845",
+                  "maRap": "456",
+                  "tenRap": "Rạp 6",
+                  "ngayChieuGioChieu": "2022-06-21T11:34:18",
+                  "giaVe": 89789.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-3-2",
+              "tenCumRap": "BHD Star Cineplex - 3/2",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "L5-Vincom 3/2, 3C Đường 3/2, Q.10"
+            }
+          ],
+          "maHeThongRap": "BHDStar",
+          "tenHeThongRap": "BHD Star Cineplex",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+        },
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45840",
+                  "maRap": "539",
+                  "tenRap": "Rạp 9",
+                  "ngayChieuGioChieu": "2022-05-28T11:16:54",
+                  "giaVe": 90000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "cgv-cgv-saigonres-nguyen-xi",
+              "tenCumRap": "CGV - CGV Saigonres Nguyễn Xí",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "Tầng 4-5, Saigonres Plaza, 79/81 Nguyễn Xí, P. 26, Bình Thạnh"
+            }
+          ],
+          "maHeThongRap": "CGV",
+          "tenHeThongRap": "cgv",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/cgv.png"
+        },
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45702",
+                  "maRap": "757",
+                  "tenRap": "Rạp 7",
+                  "ngayChieuGioChieu": "2022-05-03T11:50:00",
+                  "giaVe": 75000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "glx-kinh-duong-vuong",
+              "tenCumRap": "GLX - Kinh Dương Vương",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "718bis Kinh Dương Vương, Q.6"
+            },
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45838",
+                  "maRap": "785",
+                  "tenRap": "Rạp 5",
+                  "ngayChieuGioChieu": "2022-05-28T07:01:37",
+                  "giaVe": 90000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "glx-pham-van-chi",
+              "tenCumRap": "GLX - Phạm Văn Chí",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "Lầu 5, TTTM Platinum Plaza, 634 Phạm Văn Chí, Q.6"
+            }
+          ],
+          "maHeThongRap": "Galaxy",
+          "tenHeThongRap": "Galaxy Cinema",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/galaxy-cinema.png"
+        }
+      ]
+    },
+    {
+      "maPhim": 10535,
+      "tenPhim": "NGHỀ SIÊU DỄ",
+      "trailer": "https://www.youtube.com/watch?v=IOwvN-aoBpM",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/nghe-sieu-de_gp01.jpg",
+      "moTa": "Ông Thái là một cảnh sát về hưu nhưng không chịu an phận thủ thường, hàng ngày vẫn đi tìm bắt tội phạm vặt trong xóm cho đỡ nhớ nghề. Một ngày kia, Hoàng - tên trùm ma túy mới ra tù bỗng dưng chuyển đến xóm ông và mở một văn phòng bất động sản. Nghi ngờ đây là nơi làm ăn phi pháp, ông Thái quyết định âm thầm điều tra. Ông mua lại tiệm cơm tấm đối diện trụ sở của Hoàng để làm nơi theo dõi, đồng thời thu nạp Thu - Phú - Vinh - Mèo, đám thanh niên “bất hảo” trong xóm về quán hỗ trợ buôn bán để rảnh tay \"phá án\". Trớ trêu thay, tiệm cơm bất ngờ nổi tiếng và ăn nên làm ra, khiến cho \"chuyên án đặc biệt\" của ông đứng trước nguy cơ đổ bể.",
+      "ngayKhoiChieu": "2022-04-29T00:00:00",
+      "danhGia": 9,
+      "hot": true,
+      "dangChieu": true,
+      "sapChieu": false,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45815",
+                  "tenRap": "Rạp 8",
+                  "ngayChieuGioChieu": "2022-05-27T12:43:31",
+                  "giaVe": 90000.0,
+                  "thoiLuong": 120
+                },
+                {
+                  "maLichChieu": "45816",
+                  "tenRap": "Rạp 7",
+                  "ngayChieuGioChieu": "2022-05-27T12:43:31",
+                  "giaVe": 90000.0,
+                  "thoiLuong": 120
+                },
+                {
+                  "maLichChieu": "45817",
+                  "tenRap": "Rạp 9",
+                  "ngayChieuGioChieu": "2022-05-27T12:43:31",
+                  "giaVe": 90000.0,
+                  "thoiLuong": 120
+                },
+                {
+                  "maLichChieu": "45846",
+                  "tenRap": "Rạp 4",
+                  "ngayChieuGioChieu": "2022-06-01T00:04:00",
+                  "giaVe": 75421.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-bitexco",
+              "tenCumRap": "BHD Star Cineplex - Bitexco",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "L3-Bitexco Icon 68, 2 Hải Triều, Q.1"
+            }
+          ],
+          "maHeThongRap": "BHDStar",
+          "tenHeThongRap": "BHD Star Cineplex",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+        },
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45807",
+                  "maRap": "511",
+                  "tenRap": "Rạp 8",
+                  "ngayChieuGioChieu": "2022-05-27T12:35:58",
+                  "giaVe": 90000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "cgv-aeon-binh-tan",
+              "tenCumRap": "CGV - Aeon Bình Tân",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "Tầng 3, TTTM Aeon Mall Bình Tân, Số 1 đường số 17A, khu phố 11, Bình Trị Đông B, Bình Tân"
+            },
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45820",
+                  "tenRap": "Rạp 4",
+                  "ngayChieuGioChieu": "2022-05-28T12:51:09",
+                  "giaVe": 90000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "cgv-golden-plaza",
+              "tenCumRap": "CGV - Golden Plaza",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "Tầng 4, Trung tâm thương mại Golden Plaza, 922 Nguyễn Trãi, P. 14, Q. 5"
+            },
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45839",
+                  "tenRap": "Rạp 5",
+                  "ngayChieuGioChieu": "2022-05-28T07:05:18",
+                  "giaVe": 90000.0,
+                  "thoiLuong": 120
+                },
+                {
+                  "maLichChieu": "45847",
+                  "tenRap": "Rạp 4",
+                  "ngayChieuGioChieu": "2022-06-27T11:12:21",
+                  "giaVe": 150000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "cgv-cgv-saigonres-nguyen-xi",
+              "tenCumRap": "CGV - CGV Saigonres Nguyễn Xí",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "Tầng 4-5, Saigonres Plaza, 79/81 Nguyễn Xí, P. 26, Bình Thạnh"
+            }
+          ],
+          "maHeThongRap": "CGV",
+          "tenHeThongRap": "cgv",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/cgv.png"
+        },
+
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45818",
+                  "tenRap": "Rạp 5",
+                  "ngayChieuGioChieu": "2022-05-27T12:43:31",
+                  "giaVe": 90000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "glx-pham-van-chi",
+              "tenCumRap": "GLX - Phạm Văn Chí",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "Lầu 5, TTTM Platinum Plaza, 634 Phạm Văn Chí, Q.6"
+            }
+          ],
+          "maHeThongRap": "Galaxy",
+          "tenHeThongRap": "Galaxy Cinema",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/galaxy-cinema.png"
+        }
+      ]
+    },
+    {
+      "maPhim": 10537,
+      "tenPhim": "CẢNH SÁT VŨ TRỤ LIGHTYEAR1",
+      "trailer": "https://www.youtube.com/watch?v=wHBBoUtJHhA",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/canh-sat-vu-tru-lightyear_gp01.jpg",
+      "moTa": "Bộ phim kể về chuyến hành trình hành động kết hợp khoa học viễn tưởng nhằm giới thiệu câu chuyện về nguồn gốc của nhân vật Buzz Lightyear — người anh hùng đã truyền cảm hứng sáng tạo ra đồ chơi. “Lightyear” sẽ theo chân Cảnh Sát Vũ Trụ huyền thoại trong cuộc hành trình bước ra ngoài không gian cùng với một nhóm chiến binh đầy tham vọng và người bạn đồng hành là chú mèo máy Sox.",
+      "ngayKhoiChieu": "2022-05-27T00:14:13.98",
+      "danhGia": 8,
+      "hot": true,
+      "dangChieu": true,
+      "sapChieu": true,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45787",
+                  "maRap": "721",
+                  "tenRap": "Rạp 1",
+                  "ngayChieuGioChieu": "2022-05-24T06:00:00",
+                  "giaVe": 90000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "cns-hai-ba-trung",
+              "tenCumRap": "CNS - Hai Bà Trưng",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "135 Hai Bà Trưng, Bến Nghé, Q.1[Bản đồ]"
+            }
+          ],
+          "maHeThongRap": "CineStar",
+          "tenHeThongRap": "CineStar",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/cinestar.png"
+        },
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45705",
+                  "maRap": "909",
+                  "tenRap": "Rạp 9",
+                  "ngayChieuGioChieu": "2022-05-01T11:00:00",
+                  "giaVe": 75000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "megags-cao-thang",
+              "tenCumRap": "MegaGS - Cao Thắng",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "19 Cao Thắng, Q.3"
+            }
+          ],
+          "maHeThongRap": "MegaGS",
+          "tenHeThongRap": "MegaGS",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/megags.png"
+        }
+      ]
+    },
+    {
+      "maPhim": 10538,
+      "tenPhim": "DORAEMON: NOBITA VÀ CUỘC CHIẾN VŨ TRỤ TÍ HON 2021",
+      "trailer": "https://www.youtube.com/watch?v=bALKXsKhEEs",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/doraemon-nobita-va-cuoc-chien-vu-tru-ti-hon-2021_gp01.jpg",
+      "moTa": "Nobita tình cờ gặp được người ngoài hành tinh tí hon Papi, vốn là Tổng thống của hành tinh Pirika, chạy trốn tới Trái Đất để thoát khỏi những kẻ nổi loạn nơi quê nhà. Doraemon, Nobita và hội bạn thân dùng bảo bối đèn pin thu nhỏ biến đổi theo kích cỡ giống Papi để chơi cùng cậu bé. Thế nhưng, một tàu chiến không gian tấn công cả nhóm. Cảm thấy có trách nhiệm vì liên lụy mọi người, Papi quyết định một mình đương đầu với quân phiến loạn tàn ác. Doraemon và các bạn lên đường đến hành tinh Pirika, sát cánh bên người bạn của mình.\r\n",
+      "ngayKhoiChieu": "2022-05-27T00:00:00",
+      "danhGia": 0,
+      "hot": true,
+      "dangChieu": false,
+      "sapChieu": true,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45706",
+                  "maRap": "457",
+                  "tenRap": "Rạp 7",
+                  "ngayChieuGioChieu": "2022-05-06T10:15:00",
+                  "giaVe": 80000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-3-2",
+              "tenCumRap": "BHD Star Cineplex - 3/2",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "L5-Vincom 3/2, 3C Đường 3/2, Q.10"
+            }
+          ],
+          "maHeThongRap": "BHDStar",
+          "tenHeThongRap": "BHD Star Cineplex",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+        }
+      ]
+    },
+    {
+      "maPhim": 10540,
+      "tenPhim": "THOR: TÌNH YÊU VÀ SẤM SÉT",
+      "trailer": "https://www.youtube.com/watch?v=WizuvIYbAeM",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/thor-tinh-yeu-va-sam-set_gp01.jpg",
+      "moTa": "Vốn từng là một chiến binh hùng mạnh của Asgard, trải qua vô số trận chiến lớn nhỏ nhưng sau sự kiện trong Avengers: Endgame (2019) cùng vô số mất mát, Thần Sấm không còn muốn theo đuổi con đường siêu anh hùng. Từ đây, anh lên đường tìm ra ý nghĩa của cuộc sống và nhìn nhận lại bản thân mình.",
+      "ngayKhoiChieu": "2022-08-01T00:00:00",
+      "danhGia": 0,
+      "hot": false,
+      "dangChieu": false,
+      "sapChieu": true,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45706",
+                  "maRap": "457",
+                  "tenRap": "Rạp 7",
+                  "ngayChieuGioChieu": "2022-05-06T10:15:00",
+                  "giaVe": 80000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-3-2",
+              "tenCumRap": "BHD Star Cineplex - 3/2",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "L5-Vincom 3/2, 3C Đường 3/2, Q.10"
+            }
+          ],
+          "maHeThongRap": "BHDStar",
+          "tenHeThongRap": "BHD Star Cineplex",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+        }
+      ]
+    },
+    {
+      "maPhim": 10541,
+      "tenPhim": "AVATAR: DÒNG CHẢY CỦA NƯỚC 2022",
+      "trailer": "https://www.youtube.com/watch?v=oeRG9A6bDdY",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/avatar-dong-chay-cua-nuoc_gp01.jpg",
+      "moTa": "Câu chuyện của “Avatar: Dòng Chảy Của Nước” lấy bối cảnh 10 năm sau những sự kiện xảy ra ở phần đầu tiên. Phim kể câu chuyện về gia đình mới của Jake Sully (Sam Worthington thủ vai) cùng những rắc rối theo sau và bi kịch họ phải chịu đựng khi phe loài người xâm lược hành tinh Pandora.",
+      "ngayKhoiChieu": "2022-05-27T19:57:20.323",
+      "danhGia": 5,
+      "hot": true,
+      "dangChieu": false,
+      "sapChieu": true,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45857",
+                  "maRap": "500",
+                  "tenRap": "Rạp 10",
+                  "ngayChieuGioChieu": "2022-12-12T12:22:00",
+                  "giaVe": 75000.0,
+                  "thoiLuong": 120
+                },
+                {
+                  "maLichChieu": "45858",
+                  "maRap": "491",
+                  "tenRap": "Rạp 1",
+                  "ngayChieuGioChieu": "2022-12-12T12:22:00",
+                  "giaVe": 75000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-vincom-quang-trung",
+              "tenCumRap": "BHD Star Cineplex - Vincom Quang Trung",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "B1-Vincom QT, 190 Quang Trung, Gò Vấp"
+            },
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45861",
+                  "maRap": "470",
+                  "tenRap": "Rạp 10",
+                  "ngayChieuGioChieu": "2022-12-12T12:22:00",
+                  "giaVe": 75005.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-bitexco",
+              "tenCumRap": "BHD Star Cineplex - Bitexco",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "L3-Bitexco Icon 68, 2 Hải Triều, Q.1"
+            }
+          ],
+          "maHeThongRap": "BHDStar",
+          "tenHeThongRap": "BHD Star Cineplex",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+        }
+      ]
+    },
+    {
+      "maPhim": 10542,
+      "tenPhim": "MÈO ĐI HIA: ĐIỀU ƯỚC CUỐI CÙNG",
+      "trailer": "https://www.youtube.com/watch?v=ixFHgfKr39Y",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/meo-di-hia-dieu-uoc-cuoi-cung_gp01.jpg",
+      "moTa": "Phần nối tiếp của Puss in Boots đã ra mắt từ 11 năm trước. Chú mèo đi hia sẽ chính thức trở lại màn ảnh lớn trong 1 chuyến phiêu lưu mới, vui nhộn hơn và cũng gay cấn hơn khi đã trót “tiêu xài” 8 trong số 9 cái mạng của mình.",
+      "ngayKhoiChieu": "2022-09-16T00:00:00",
+      "danhGia": 0,
+      "hot": false,
+      "dangChieu": false,
+      "sapChieu": true,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45863",
+                  "maRap": "493",
+                  "tenRap": "Rạp 3",
+                  "ngayChieuGioChieu": "2022-06-08T05:09:52",
+                  "giaVe": 75042.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-vincom-quang-trung",
+              "tenCumRap": "BHD Star Cineplex - Vincom Quang Trung",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "B1-Vincom QT, 190 Quang Trung, Gò Vấp"
+            }
+          ],
+          "maHeThongRap": "BHDStar",
+          "tenHeThongRap": "BHD Star Cineplex",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+        }
+      ]
+    },
+    {
+      "maPhim": 10543,
+      "tenPhim": "TĂNG TỐC.. VỀ PHÍA EM",
+      "trailer": "https://www.youtube.com/watch?v=_DfdCFaBEp0",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/tang-toc-ve-phia-em_gp01.jpg",
+      "moTa": "Kao (Nat Kitcharit) là một nhà vô địch thế giới môn xếp ly tốc độ (Speed Stack). Tuy thành công và nổi tiếng nhưng Kao lại chỉ như một đứa trẻ to xác suốt ngày chỉ ăn, ngủ và tập luyện. Mọi vấn đề xung quanh anh đều một tay Jay (Yaya) bạn gái anh quán xuyến. Đến một ngày khi Jay quyết định chia tay thì Kao như bị mất tất cả. Anh phải bắt đầu học những kỹ năng sống cơ bản để có thể tự sống một mình và chăm sóc bản thân. Song song đó những đối thủ mới cũng xuất hiện và đe dọa đến vị trí quán quân của Kao.",
+      "ngayKhoiChieu": "2022-04-29T00:00:00",
+      "danhGia": 7,
+      "hot": false,
+      "dangChieu": true,
+      "sapChieu": false,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45709",
+                  "maRap": "472",
+                  "tenRap": "Rạp 2",
+                  "ngayChieuGioChieu": "2022-05-04T08:55:00",
+                  "giaVe": 85000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-pham-hung",
+              "tenCumRap": "BHD Star Cineplex - Phạm Hùng",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "L4-Satra Phạm Hùng, C6/27 Phạm Hùng, Bình Chánh"
+            }
+          ],
+          "maHeThongRap": "BHDStar",
+          "tenHeThongRap": "BHD Star Cineplex",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+        }
+      ]
+    },
+    {
+      "maPhim": 10544,
+      "tenPhim": "NHÍM SONIC 2",
+      "trailer": "https://www.youtube.com/watch?v=G1Mrk6pFqVI",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/nhim-sonic-2_gp01.jpg",
+      "moTa": "Khi Robotnik tìm cách quay trở về Trái Đất thành công, ông ta có một đồng minh mới là Knuckles hùng mạnh, liệu Sonic và người bạn ới Tails có thể ngăn chặn được âm mưu điên rồi để cứu lấy thế giới?",
+      "ngayKhoiChieu": "2022-04-15T00:00:00",
+      "danhGia": 7,
+      "hot": false,
+      "dangChieu": true,
+      "sapChieu": false,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45707",
+                  "maRap": "457",
+                  "tenRap": "Rạp 7",
+                  "ngayChieuGioChieu": "2022-06-15T10:15:00",
+                  "giaVe": 80000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-3-2",
+              "tenCumRap": "BHD Star Cineplex - 3/2",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "L5-Vincom 3/2, 3C Đường 3/2, Q.10"
+            }
+          ],
+          "maHeThongRap": "BHDStar",
+          "tenHeThongRap": "BHD Star Cineplex",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+        }
+      ]
+    },
+    {
+      "maPhim": 10545,
+      "tenPhim": "ĐÊM TỐI RỰC RỠ",
+      "trailer": "https://www.youtube.com/watch?v=tgL4qAcLy4Y",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/dem-toi-ruc-ro_gp01.jpg",
+      "moTa": "Khi người ông qua đời, cả gia đình của Xuân Thanh (Nhã Uyên) tề tựu để đưa tiễn. Đám tang diễn ra hoành tráng, xôm tụ và đầy màu sắc. Bỗng dưng một đám người kéo đến đòi nợ trong sự ngỡ ngàng của tất cả. Những bí mật bị phanh phui, bi kịch chồng bi kịch, như một hệ luỵ tổn thương của nạn bạo hành gia đình đầy ám ảnh.",
+      "ngayKhoiChieu": "2022-04-08T00:00:00",
+      "danhGia": 7,
+      "hot": false,
+      "dangChieu": true,
+      "sapChieu": false,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45708",
+                  "maRap": "457",
+                  "tenRap": "Rạp 7",
+                  "ngayChieuGioChieu": "2022-06-12T10:15:00",
+                  "giaVe": 80000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-3-2",
+              "tenCumRap": "BHD Star Cineplex - 3/2",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "L5-Vincom 3/2, 3C Đường 3/2, Q.10"
+            }
+          ],
+          "maHeThongRap": "BHDStar",
+          "tenHeThongRap": "BHD Star Cineplex",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+        }
+      ]
+    },
+    {
+      "maPhim": 10546,
+      "tenPhim": "NHỮNG CÔ VỢ HÀNH ĐỘNG",
+      "trailer": "https://www.youtube.com/watch?v=Y_7BN2q3SUs",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/nhung-co-vo-hanh-dong_gp01.jpg",
+      "moTa": "Những Cô Vợ Hành Động với sự tham gia diễn xuất chính của chủ nhân nút kim cương Youtube đầu tiên và duy nhất hiện nay tại Việt Nam - Nhóm FAPTV. Bộ phim xoay quanh những tình huống dở khóc dở cười trong cuộc sống hôn nhân của ba cặp đôi trẻ tuổi, cụ thể là kế hoạch hành động “đặc sắc” của các cô vợ khi phát hiện 3 anh chồng trốn nhà đi chơi xuyên đêm. Liệu rằng khi các quý ông đam mê “chơi bời” bên ngoài thì những cô vợ phải xử lý ra sao và kết cục của quá trình “đánh ghen” này là gì?",
+      "ngayKhoiChieu": "2022-04-29T00:00:00",
+      "danhGia": 6,
+      "hot": false,
+      "dangChieu": true,
+      "sapChieu": false,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45709",
+                  "maRap": "457",
+                  "tenRap": "Rạp 7",
+                  "ngayChieuGioChieu": "2022-05-22T10:15:00",
+                  "giaVe": 80000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-3-2",
+              "tenCumRap": "BHD Star Cineplex - 3/2",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "L5-Vincom 3/2, 3C Đường 3/2, Q.10"
+            }
+          ],
+          "maHeThongRap": "BHDStar",
+          "tenHeThongRap": "BHD Star Cineplex",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+        }
+      ]
+    },
+    {
+      "maPhim": 10547,
+      "tenPhim": "ÁN MẠNG LIÊN HOÀN LÚC NỬA ĐÊM",
+      "trailer": "https://www.youtube.com/watch?v=PDq6ww8zEVU",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/an-mang-lien-hoan-luc-nua-dem_gp01.jpg",
+      "moTa": "Bộ phim kể về 3 câu chuyện bí ẩn với những sự thật kinh hoàng dần được hé lộ.",
+      "ngayKhoiChieu": "2022-05-29T00:00:00",
+      "danhGia": 7,
+      "hot": false,
+      "dangChieu": true,
+      "sapChieu": false,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45710",
+                  "maRap": "457",
+                  "tenRap": "Rạp 7",
+                  "ngayChieuGioChieu": "2022-05-06T10:15:00",
+                  "giaVe": 80000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-3-2",
+              "tenCumRap": "BHD Star Cineplex - 3/2",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "L5-Vincom 3/2, 3C Đường 3/2, Q.10"
+            }
+          ],
+          "maHeThongRap": "BHDStar",
+          "tenHeThongRap": "BHD Star Cineplex",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+        }
+      ]
+    },
+    {
+      "maPhim": 10548,
+      "tenPhim": "SINH VẬT HUYỀN BÍ: NHỮNG BÍ MẬT CỦA DUMBLEDORE",
+      "trailer": "https://www.youtube.com/watch?v=citR_GSenWA",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/sinh-vat-huyen-bi-nhung-bi-mat-cua-dumbledore_gp01.jpg",
+      "moTa": "Câu chuyện của phần phim thứ ba này xoay quanh việc Giáo sư Albus Dumbledore (Jude Law) phát hiện ra việc Phù thủy Bóng tối quyền năng Gellert Grindelwald (Mads Mikkelsen) đang âm mưu chiếm lấy quyền kiểm soát Thế giới Phù thủy. Không thể một mình ngăn chặn đoàn quân hùng mạnh của của Grindelwald, Dumbledore đặt niềm tin vào Nhà nghiên cứu sinh vật huyền bí Newt Scamander (Eddie Redmayne) cùng đồng đội thực hiện nhiệm vụ đầy hiểm nguy này. Trong tình thế ngàn cân treo sợi tóc như vậy, liệu thầy Dumbledore có thể đứng ngoài được bao lâu?",
+      "ngayKhoiChieu": "2022-04-08T00:00:00",
+      "danhGia": 5,
+      "hot": false,
+      "dangChieu": true,
+      "sapChieu": false,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45711",
+                  "maRap": "457",
+                  "tenRap": "Rạp 7",
+                  "ngayChieuGioChieu": "2022-05-20T10:15:00",
+                  "giaVe": 80000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-3-2",
+              "tenCumRap": "BHD Star Cineplex - 3/2",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "L5-Vincom 3/2, 3C Đường 3/2, Q.10"
+            }
+          ],
+          "maHeThongRap": "BHDStar",
+          "tenHeThongRap": "BHD Star Cineplex",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+        }
+      ]
+    },
+    {
+      "maPhim": 10549,
+      "tenPhim": "JUJUTSU KAISEN 0 - CHÚ THUẬT HỒI CHIẾN",
+      "trailer": "https://www.youtube.com/watch?v=-B9IXDN-zrA",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/jujutsu-kaisen-0-chu-thuat-hoi-chien_gp01.jpg",
+      "moTa": "Yuta Okkotsu, một học sinh trung học giành được quyền kiểm soát một Linh hồn bị nguyền rủa cực kỳ mạnh mẽ và được Jujutsu Sorcerers đăng ký vào trường trung học Jujutsu tỉnh Tokyo để giúp anh ta kiểm soát sức mạnh của mình và để mắt đến anh ta.",
+      "ngayKhoiChieu": "2022-04-15T00:00:00",
+      "danhGia": 5,
+      "hot": false,
+      "dangChieu": true,
+      "sapChieu": false,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45712",
+                  "maRap": "457",
+                  "tenRap": "Rạp 7",
+                  "ngayChieuGioChieu": "2022-05-06T10:15:00",
+                  "giaVe": 80000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-3-2",
+              "tenCumRap": "BHD Star Cineplex - 3/2",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "L5-Vincom 3/2, 3C Đường 3/2, Q.10"
+            }
+          ],
+          "maHeThongRap": "BHDStar",
+          "tenHeThongRap": "BHD Star Cineplex",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+        }
+      ]
+    },
+    {
+      "maPhim": 10551,
+      "tenPhim": "MỒI CÁ MẬP",
+      "trailer": "https://www.youtube.com/watch?v=4P0ViFNc8t4",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/moi-ca-map_gp01.jpg",
+      "moTa": "Một nhóm bạn quyết định tận hưởng ngày cuối tuần ở Mexico. Sau một đêm tiệc tùng trên bãi biển, họ quyết định trộm motor nước để tiếp tục cuộc vui. Tuy nhiên, cuộc vui đã trở thành bi kịch kinh hoàng khi một trong hai chiếc motor nước bị chìm. Một người bạn bị thương nặng, và đằng xa xuất hiện một đàn cá mập. Liệu nhóm bạn trẻ có thể thoát khỏi lưỡi hái của tử thần?",
+      "ngayKhoiChieu": "2022-05-20T00:00:00",
+      "danhGia": 0,
+      "hot": false,
+      "dangChieu": false,
+      "sapChieu": true,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45713",
+                  "maRap": "457",
+                  "tenRap": "Rạp 7",
+                  "ngayChieuGioChieu": "2022-05-06T10:15:00",
+                  "giaVe": 80000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-3-2",
+              "tenCumRap": "BHD Star Cineplex - 3/2",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "L5-Vincom 3/2, 3C Đường 3/2, Q.10"
+            }
+          ],
+          "maHeThongRap": "BHDStar",
+          "tenHeThongRap": "BHD Star Cineplex",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+        }
+      ]
+    },
+    {
+      "maPhim": 10552,
+      "tenPhim": "THẾ GIỚI KHỦNG LONG: LÃNH ĐỊA",
+      "trailer": "https://www.youtube.com/watch?v=3y0KM5jUnmk",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/the-gioi-khung-long-lanh-dia_gp01.jpg",
+      "moTa": "Bốn năm sau kết thúc Jurassic World: Fallen Kingdom, những con khủng long đã thoát khỏi nơi giam cầm và tiến vào thế giới loài người. Giờ đây, chúng xuất hiện ở khắp mọi nơi. Sinh vật to lớn ấy không còn chỉ ở trên đảo như trước nữa mà gần ngay trước mắt, thậm chí còn có thể chạm tới. Owen Grady may mắn gặp lại cô khủng long mà anh và khán giả vô cùng yêu mến - Blue. Tuy nhiên, Blue không đi một mình mà còn đem theo một chú khủng long con khác. Điều này khiến Owen càng quyết tâm bảo vệ mẹ con cô được sinh sống an toàn. Thế nhưng, hai giống loài quá khác biệt. Liệu có thể tồn tại một kỷ nguyên mà khủng long và con người sống chung một cách hòa bình?",
+      "ngayKhoiChieu": "2022-06-10T00:00:00",
+      "danhGia": 0,
+      "hot": false,
+      "dangChieu": false,
+      "sapChieu": true,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45714",
+                  "maRap": "457",
+                  "tenRap": "Rạp 7",
+                  "ngayChieuGioChieu": "2022-05-06T10:15:00",
+                  "giaVe": 80000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-3-2",
+              "tenCumRap": "BHD Star Cineplex - 3/2",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "L5-Vincom 3/2, 3C Đường 3/2, Q.10"
+            }
+          ],
+          "maHeThongRap": "BHDStar",
+          "tenHeThongRap": "BHD Star Cineplex",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+        }
+      ]
+    },
+    {
+      "maPhim": 10554,
+      "tenPhim": "RỪNG SĂN NGƯỜI 2",
+      "trailer": "https://www.youtube.com/watch?v=VCSfP7L00dI",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/rung-san-nguoi_gp01.jpg",
+      "moTa": "Một biệt đội được phái vào rừng sâu để tìm tài liệu tuyệt mật và những người đồng đội mất tích. Nhưng mọi thứ không đơn giản như thế, họ đã tiến vào một vùng đất chất, nơi quỷ dữ thống trị và điều khiển mọi thứ. Đặc biệt, phim có sự góp mặt của Mickey Rourke, phản diện chính từ Iron Man 2.",
+      "ngayKhoiChieu": "2022-05-27T19:56:54.987",
+      "danhGia": 5,
+      "hot": false,
+      "dangChieu": false,
+      "sapChieu": true,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45715",
+                  "maRap": "457",
+                  "tenRap": "Rạp 7",
+                  "ngayChieuGioChieu": "2022-05-06T10:15:00",
+                  "giaVe": 80000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-3-2",
+              "tenCumRap": "BHD Star Cineplex - 3/2",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "L5-Vincom 3/2, 3C Đường 3/2, Q.10"
+            }
+          ],
+          "maHeThongRap": "BHDStar",
+          "tenHeThongRap": "BHD Star Cineplex",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+        }
+      ]
+    },
+
+    {
+      "maPhim": 10557,
+      "tenPhim": "THANH SÓI",
+      "trailer": "https://www.youtube.com/watch?v=lVBgekemG9E",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/thanh-soi_gp01.jpg",
+      "moTa": "Bộ phim Thanh Sói là một tác phẩm điện ảnh hành động thuộc \"vũ trụ\" Hai Phượng. Phim là câu chuyện về thời trẻ của nữ trùm Thanh Sói với hướng khai thác thú vị và niềm tin rằng tất cả nhân vật xấu đều xuất phát từ lý do nào đó. Nỗi đau có thể thay đổi tất cả.",
+      "ngayKhoiChieu": "2022-05-27T19:56:41.597",
+      "danhGia": 4,
+      "hot": false,
+      "dangChieu": false,
+      "sapChieu": true,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45717",
+                  "maRap": "457",
+                  "tenRap": "Rạp 7",
+                  "ngayChieuGioChieu": "2022-05-06T10:15:00",
+                  "giaVe": 80000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-3-2",
+              "tenCumRap": "BHD Star Cineplex - 3/2",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "L5-Vincom 3/2, 3C Đường 3/2, Q.10"
+            }
+          ],
+          "maHeThongRap": "BHDStar",
+          "tenHeThongRap": "BHD Star Cineplex",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+        }
+      ]
+    },
+    {
+      "maPhim": 10558,
+      "tenPhim": "LIÊN MINH SIÊU THÚ DC 2",
+      "trailer": "https://www.youtube.com/watch?v=L2umMe5uRnk",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/lien-minh-sieu-thu-dc_gp01.jpg",
+      "moTa": "Trong “Liên Minh Siêu Thú DC”, Siêu Cún Krypto và Superman là cặp bài trùng không thể tách rời, cùng sở hữu những siêu năng lực tương tự và cùng nhau chiến đấu chống lại tội phạm tại thành phố Metropolis. Khi Superman và những thành viên của Liên Minh Công Lý bị bắt cóc, Krypto phải thuyết phục cậu chàng Ace luộm thuộm, nàng Heo PB, Rùa Merton và Sóc Chip khai phá những sức mạnh tiềm ẩn và cùng nhau giải cứu các siêu anh hùng. “Liên Minh Siêu Thú DC” có sự góp giọng của bộ đôi ngôi sao nổi tiếng bậc nhất Hollywood Dwayne Johnson (lồng tiếng cho Siêu cún Krypto) và Kevin Hart (Superman). Đặc biệt, tài tử Keanu Reeves sẽ đảm nhận những câu thoại chất lừ đến từ Batman.",
+      "ngayKhoiChieu": "2022-05-27T20:03:33.377",
+      "danhGia": 7,
+      "hot": false,
+      "dangChieu": false,
+      "sapChieu": true,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45718",
+                  "maRap": "457",
+                  "tenRap": "Rạp 7",
+                  "ngayChieuGioChieu": "2022-05-06T10:15:00",
+                  "giaVe": 80000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-3-2",
+              "tenCumRap": "BHD Star Cineplex - 3/2",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "L5-Vincom 3/2, 3C Đường 3/2, Q.10"
+            }
+          ],
+          "maHeThongRap": "BHDStar",
+          "tenHeThongRap": "BHD Star Cineplex",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+        }
+      ]
+    },
+    {
+      "maPhim": 10603,
+      "tenPhim": "the waliking dead",
+      "trailer": "https://www.youtube.com/watch?v=sfAc2U20uyg",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/the-waliking-dead_gp01.jpg",
+      "moTa": "Xác Sống 11 (The Walking Dead Season 11) là mùa cuối cùng của một loạt phim truyền hình Mỹ thuộc thể loại kinh dị và hậu tận thế của kênh AMC, dựa trên seri truyện tranh cùng tên do Robert Kirkman, Tony Moore và Charlie Adlard sáng tạo. The Walking Dead - series khai sáng cho kỷ nguyên zombie trên màn ảnh nhỏ chuẩn bị đi tới hồi kết.",
+      "ngayKhoiChieu": "2022-05-14T00:00:00",
+      "danhGia": 9,
+      "hot": true,
+      "dangChieu": true,
+      "sapChieu": true,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45719",
+                  "maRap": "457",
+                  "tenRap": "Rạp 7",
+                  "ngayChieuGioChieu": "2022-05-06T10:15:00",
+                  "giaVe": 80000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-3-2",
+              "tenCumRap": "BHD Star Cineplex - 3/2",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "L5-Vincom 3/2, 3C Đường 3/2, Q.10"
+            }
+          ],
+          "maHeThongRap": "BHDStar",
+          "tenHeThongRap": "BHD Star Cineplex",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+        }
+      ]
+    },
+    {
+      "maPhim": 10604,
+      "tenPhim": "Bleach",
+      "trailer": "https://youtu.be/oblZrnM9p6A?t=5",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/bleach_gp01.png",
+      "moTa": "Ichigo Kurosaki là một thiếu niên có khả năng nhìn thấy linh hồn. Cuộc sống của anh thay đổi nhanh chóng bởi sự xuất hiện đột ngột của một Soul Reaper - một trong những người điều chỉnh dòng chảy của linh hồn giữa thế giới con người và thế giới bên kia, tên là Kuchiki Rukia, người đến thế giới con người để tìm diệt Hollow, một linh hồn lạc lối rất nguy hiểm. Khi Rukia bị thương nặng vì bảo vệ Ichigo khỏi Hollow, cô cố gắng chuyển một nửa trong số năng lượng reiatsu (sức mạnh linh hồn) của cô cho Ichigo để anh có thể đánh bại Hollow. Tuy nhiên, Ichigo lấy gần như tất cả năng lượng của Rukia và biến đổi thành một Soul Reaper, cho phép anh đánh bại Hollow dễ dàng.",
+      "ngayKhoiChieu": "2022-05-14T00:00:00",
+      "danhGia": 8,
+      "hot": true,
+      "dangChieu": true,
+      "sapChieu": true,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45720",
+                  "maRap": "457",
+                  "tenRap": "Rạp 7",
+                  "ngayChieuGioChieu": "2022-07-02T10:15:00",
+                  "giaVe": 80000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-3-2",
+              "tenCumRap": "BHD Star Cineplex - 3/2",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "L5-Vincom 3/2, 3C Đường 3/2, Q.10"
+            }
+          ],
+          "maHeThongRap": "BHDStar",
+          "tenHeThongRap": "BHD Star Cineplex",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+        }
+      ]
+    },
+    {
+      "maPhim": 10608,
+      "tenPhim": "Loki Thần Lừa",
+      "trailer": "https://www.youtube.com/watch?v=nW948Va-l10",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/loki-than-lua_gp01.jpg",
+      "moTa": "Loki marvel sản xuất ",
+      "ngayKhoiChieu": "2022-05-19T17:07:51.6",
+      "danhGia": 10,
+      "hot": true,
+      "dangChieu": false,
+      "sapChieu": true,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45721",
+                  "maRap": "457",
+                  "tenRap": "Rạp 7",
+                  "ngayChieuGioChieu": "2022-06-11T11:15:00",
+                  "giaVe": 80000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-3-2",
+              "tenCumRap": "BHD Star Cineplex - 3/2",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "L5-Vincom 3/2, 3C Đường 3/2, Q.10"
+            }
+          ],
+          "maHeThongRap": "BHDStar",
+          "tenHeThongRap": "BHD Star Cineplex",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+        }
+      ]
+    },
+    {
+      "maPhim": 10610,
+      "tenPhim": "Moon Knight ",
+      "trailer": "https://youtu.be/x7Krla_UxRg",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/moon-knight_gp01.jpeg",
+      "moTa": "Steven Grant discovers he's been granted the powers of an Egyptian moon god. But he soon finds out that these newfound powers can be both a blessing and a curse to his troubled life.",
+      "ngayKhoiChieu": "2022-05-19T18:37:09.357",
+      "danhGia": 9,
+      "hot": true,
+      "dangChieu": true,
+      "sapChieu": false,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45722",
+                  "maRap": "457",
+                  "tenRap": "Rạp 7",
+                  "ngayChieuGioChieu": "2022-07-06T10:15:00",
+                  "giaVe": 80000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-3-2",
+              "tenCumRap": "BHD Star Cineplex - 3/2",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "L5-Vincom 3/2, 3C Đường 3/2, Q.10"
+            }
+          ],
+          "maHeThongRap": "BHDStar",
+          "tenHeThongRap": "BHD Star Cineplex",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+        }
+      ]
+    },
+    {
+      "maPhim": 10645,
+      "tenPhim": "Game of Throne",
+      "trailer": "https://youtu.be/KPLWWIOCOOQ",
+      "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/game-of-throne_gp01.jpg",
+      "moTa": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia",
+      "ngayKhoiChieu": "2022-05-27T19:54:46.097",
+      "danhGia": 9,
+      "hot": true,
+      "dangChieu": true,
+      "sapChieu": false,
+      "heThongRapChieu": [
+        {
+          "cumRapChieu": [
+            {
+              "lichChieuPhim": [
+                {
+                  "maLichChieu": "45723",
+                  "maRap": "457",
+                  "tenRap": "Rạp 7",
+                  "ngayChieuGioChieu": "2022-06-09T10:15:00",
+                  "giaVe": 80000.0,
+                  "thoiLuong": 120
+                }
+              ],
+              "maCumRap": "bhd-star-cineplex-3-2",
+              "tenCumRap": "BHD Star Cineplex - 3/2",
+              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
+              "diaChi": "L5-Vincom 3/2, 3C Đường 3/2, Q.10"
+            }
+          ],
+          "maHeThongRap": "BHDStar",
+          "tenHeThongRap": "BHD Star Cineplex",
+          "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+        }
+      ]
+    }
+  ]
+}

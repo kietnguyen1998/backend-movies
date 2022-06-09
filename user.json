@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "bruno@email.com",
+      "password": "bruno",
+      "name": "bruno",
+      "phone": "09187565",
+      "role": "client"
+    },
+
+    {
+      "id": 2,
+      "email": "kiet@email.com",
+      "password": "kiet123",
+      "name": "kiet nguyen",
+      "phone": "09185345",
+      "role": "admin"
+    }
+  ]
+}

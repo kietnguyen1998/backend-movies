@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "maHeThongRap": "BHDStar",
+      "tenHeThongRap": "BHD Star Cineplex",
+      "biDanh": "bhd-star-cineplex",
+      "logo": "http://movieapi.cyberlearn.vn/hinhanh/bhd-star-cineplex.png"
+    },
+    {
+      "maHeThongRap": "cgv",
+      "tenHeThongRap": "cgv",
+      "biDanh": "cgv",
+      "logo": "http://movieapi.cyberlearn.vn/hinhanh/cgv.png"
+    },
+
+    {
+      "maHeThongRap": "galaxy",
+      "tenHeThongRap": "Galaxy Cinema",
+      "biDanh": "galaxy-cinema",
+      "logo": "http://movieapi.cyberlearn.vn/hinhanh/galaxy-cinema.png"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "BHDStar": [
+    {
+      "maCumRap": "bhd-star-cineplex-3-2",
+      "tenCumRap": "BHD Star Cineplex - 3/2",
+      "diaChi": "L5-Vincom 3/2, 3C Đường 3/2, Q.10",
+      "maRap": 451
+    },
+    {
+      "maCumRap": "bhd-star-cineplex-bitexco",
+      "tenCumRap": "BHD Star Cineplex - Bitexco",
+      "diaChi": "L3-Bitexco Icon 68, 2 Hải Triều, Q.1",
+      "maRap": 461
+    },
+    {
+      "maCumRap": "bhd-star-cineplex-pham-hung",
+      "tenCumRap": "BHD Star Cineplex - Phạm Hùng",
+      "diaChi": "L4-Satra Phạm Hùng, C6/27 Phạm Hùng, Bình Chánh",
+      "maRap": 471
+    },
+    {
+      "maCumRap": "bhd-star-cineplex-vincom-le-van-viet",
+      "tenCumRap": "BHD Star Cineplex - Vincom Lê Văn Việt",
+      "diaChi": "L4-Vincom Plaza, 50 Lê Văn Việt, Q.9",
+      "maRap": 481
+    },
+    {
+      "maCumRap": "bhd-star-cineplex-vincom-quang-trung",
+      "tenCumRap": "BHD Star Cineplex - Vincom Quang Trung",
+      "diaChi": "B1-Vincom QT, 190 Quang Trung, Gò Vấp",
+      "maRap": 491
+    },
+    {
+      "maCumRap": "bhd-star-cineplex-vincom-thao-dien",
+      "tenCumRap": "BHD Star Cineplex - Vincom Thảo Điền",
+      "diaChi": "L5-Megamall, 159 XL Hà Nội, Q.2",
+      "maRap": 501
+    }
+  ],
+
+  "cgv": [
+    {
+      "maCumRap": "cgv-aeon-binh-tan",
+      "tenCumRap": "CGV - Aeon Bình Tân",
+      "diaChi": "Tầng 3, TTTM Aeon Mall Bình Tân, Số 1 đường số 17A, khu phố 11, Bình Trị Đông B, Bình Tân",
+      "maRap": 511
+    },
+    {
+      "maCumRap": "cgv-aeon-tan-phu",
+      "tenCumRap": "CGV - Aeon Tân Phú",
+      "diaChi": "30 Bờ Bao Tân Thắng, Sơn Kỳ, Tân Phú",
+      "maRap": 521
+    },
+    {
+      "maCumRap": "cgv-cgv-saigonres-nguyen-xi",
+      "tenCumRap": "CGV - CGV Saigonres Nguyễn Xí",
+      "diaChi": "Tầng 4-5, Saigonres Plaza, 79/81 Nguyễn Xí, P. 26, Bình Thạnh",
+      "maRap": 531
+    },
+    {
+      "maCumRap": "cgv-crescent-mall",
+      "tenCumRap": "CGV - Crescent Mall",
+      "diaChi": "Lầu 5, Crescent Mall, Đại lộ Nguyễn Văn Linh, Phú Mỹ Hưng, Q. 7",
+      "maRap": 541
+    },
+    {
+      "maCumRap": "cgv-ct-plaza",
+      "tenCumRap": "CGV - CT Plaza",
+      "diaChi": "60A Trường Sơn,P. 2, Tân Bình",
+      "maRap": 551
+    },
+  
+  
+
+    {
+      "maCumRap": "cgv-pandora-city",
+      "tenCumRap": "CGV - Pandora City",
+      "diaChi": "Lầu 3, Pandora City, 1/1 Trường Chinh, Tân Phú",
+      "maRap": 611
+    },
+
+    {
+      "maCumRap": "cgv-parkson-dong-khoi",
+      "tenCumRap": "CGV - Parkson Đồng Khởi",
+      "diaChi": "Tầng 5 Parkson Đồng Khởi, 35bis-45 Lê Thánh Tôn, Bến Nghé, Q.1",
+      "maRap": 631
+    },
+    {
+      "maCumRap": "cgv-pearl-plaza",
+      "tenCumRap": "CGV - Pearl Plaza",
+      "diaChi": "Lầu 5, Pearl Plaza, 561 Điện Biên Phủ, Bình Thạnh",
+      "maRap": 641
+    },
+
+    {
+      "maCumRap": "cgv-su-van-hanh",
+      "tenCumRap": "CGV - Sư Vạn Hạnh",
+      "diaChi": "T6 Vạn Hạnh Mall, 11 Sư Vạn Hạnh, Quận 10",
+      "maRap": 661
+    },
+    {
+      "maCumRap": "cgv-vincom-dong-khoi",
+      "tenCumRap": "CGV - Vincom Đồng Khởi",
+      "diaChi": "Tầng 3, TTTM Vincom Center B, 72 Lê Thánh Tôn, Bến Nghé, Q. 1",
+      "maRap": 671
+    },
+    {
+      "maCumRap": "cgv-vincom-go-vap",
+      "tenCumRap": "CGV - Vincom Gò Vấp",
+      "diaChi": "Tầng 5 TTTM Vincom Plaza Gò Vấp, 12 Phan Văn Trị, P. 7, Gò Vấp",
+      "maRap": 681
+    },
+    {
+      "maCumRap": "cgv-vincom-landmark-81",
+      "tenCumRap": "CGV - Vincom Landmark 81",
+      "diaChi": "T B1 , TTTM Vincom Center Landmark 81, 772 Điện Biên Phủ, P.22, Q. Bình Thạnh, HCM",
+      "maRap": 691
+    },
+    {
+      "maCumRap": "cgv-vincom-thu-duc",
+      "tenCumRap": "CGV - Vincom Thủ Đức",
+      "diaChi": "Tầng 5 Vincom Thủ Đức, 216 Võ Văn Ngân, Bình Thọ, Thủ Đức",
+      "maRap": 701
+    }
+  ],
+
+  "galaxy": [
+    {
+      "maCumRap": "glx-huynh-tan-phat",
+      "tenCumRap": "GLX - Huỳnh Tấn Phát",
+      "diaChi": "1362 Huỳnh Tấn Phát, KP1, Phú Mỹ, Q. 7",
+      "maRap": 741
+    },
+    {
+      "maCumRap": "glx-kinh-duong-vuong",
+      "tenCumRap": "GLX - Kinh Dương Vương",
+      "diaChi": "718bis Kinh Dương Vương, Q.6",
+      "maRap": 751
+    },
+    {
+      "maCumRap": "glx-nguyen-du",
+      "tenCumRap": "GLX - Nguyễn Du",
+      "diaChi": "116 Nguyễn Du, Q.1",
+      "maRap": 761
+    },
+    {
+      "maCumRap": "glx-nguyen-van-qua",
+      "tenCumRap": "GLX - Nguyễn Văn Quá",
+      "diaChi": "119B Nguyễn Văn Quá, Đông Hưng Thuận, Q.12, TPHCM",
+      "maRap": 771
+    },
+    {
+      "maCumRap": "glx-pham-van-chi",
+      "tenCumRap": "GLX - Phạm Văn Chí",
+      "diaChi": "Lầu 5, TTTM Platinum Plaza, 634 Phạm Văn Chí, Q.6",
+      "maRap": 781
+    },
+    {
+      "maCumRap": "glx-quang-trung",
+      "tenCumRap": "GLX - Quang Trung",
+      "diaChi": "L3-Co.opmart Foodcosa, 304A Quang Trung, Gò Vấp",
+      "maRap": 791
+    },
+    {
+      "maCumRap": "glx-tan-binh",
+      "tenCumRap": "GLX - Tân Bình",
+      "diaChi": "246 Nguyễn Hồng Đào, Tân Bình",
+      "maRap": 801
+    },
+    {
+      "maCumRap": "glx-trung-chanh",
+      "tenCumRap": "GLX - Trung Chánh",
+      "diaChi": "TTVH Q12 09, Q L 22, Trung Mỹ Tây , Q.12",
+      "maRap": 811
+    }
+  ]
+}
