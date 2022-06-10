@@ -5,7 +5,7 @@ const middlewares = jsonServer.defaults();
 const fs = require("fs");
 const bodyParser = require("body-parser");
 const jwt = require("jsonwebtoken");
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 5000;
 
 const userdb = JSON.parse(fs.readFileSync("./user.json", "UTF-8"));
 
