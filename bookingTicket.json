@@ -411,5 +411,418 @@
         "taiKhoanNguoiDat": "bruno@email.com"
       }
     ]
+  },
+  {
+    "id": 45786,
+    "tenCumRap": "BHD Star Cineplex - Phạm Hùng",
+    "tenRap": "Rạp 10",
+    "diaChi": "L4-Satra Phạm Hùng, C6/27 Phạm Hùng, Bình Chánh",
+    "tenPhim": "PHÙ THỦY TỐI THƯỢNG TRONG ĐA VŨ TRỤ HỖN LOẠN",
+    "hinhAnh": "http://movieapi.cyberlearn.vn/hinhanh/phu-thuy-toi-thuong-trong-da-vu-tru-hon-loan_gp01.jpg",
+    "ngayChieu": "12/06/2022",
+    "gioChieu": "12:12",
+
+    "danhSachGhe": [
+      {
+        "maGhe": 55241,
+        "tenGhe": "01",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "01",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55242,
+        "tenGhe": "02",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "02",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55243,
+        "tenGhe": "03",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "03",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55244,
+        "tenGhe": "04",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "04",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55245,
+        "tenGhe": "05",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "05",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55246,
+        "tenGhe": "06",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "06",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55247,
+        "tenGhe": "07",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "07",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55248,
+        "tenGhe": "08",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "08",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55249,
+        "tenGhe": "09",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "09",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55250,
+        "tenGhe": "10",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "10",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55251,
+        "tenGhe": "11",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "11",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55252,
+        "tenGhe": "12",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "12",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55253,
+        "tenGhe": "13",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "13",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55254,
+        "tenGhe": "14",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "14",
+        "giaVe": 75000.0,
+        "daDat": true,
+        "taiKhoanNguoiDat": "kiet@email.com"
+      },
+      {
+        "maGhe": 55255,
+        "tenGhe": "15",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "15",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55256,
+        "tenGhe": "16",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "16",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55257,
+        "tenGhe": "17",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "17",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55258,
+        "tenGhe": "18",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "18",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55259,
+        "tenGhe": "19",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "19",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55260,
+        "tenGhe": "20",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "20",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55261,
+        "tenGhe": "21",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "21",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55262,
+        "tenGhe": "22",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "22",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55263,
+        "tenGhe": "23",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "23",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55264,
+        "tenGhe": "24",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "24",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55265,
+        "tenGhe": "25",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "25",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55266,
+        "tenGhe": "26",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "26",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55267,
+        "tenGhe": "27",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "27",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55268,
+        "tenGhe": "28",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "28",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55269,
+        "tenGhe": "29",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "29",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55270,
+        "tenGhe": "30",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "30",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55271,
+        "tenGhe": "31",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "31",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55272,
+        "tenGhe": "32",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "32",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55273,
+        "tenGhe": "33",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "33",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55274,
+        "tenGhe": "34",
+        "maRap": 500,
+        "loaiGhe": "Thuong",
+        "stt": "34",
+        "giaVe": 75000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55275,
+        "tenGhe": "35",
+        "maRap": 500,
+        "loaiGhe": "Vip",
+        "stt": "35",
+        "giaVe": 90000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55276,
+        "tenGhe": "36",
+        "maRap": 500,
+        "loaiGhe": "Vip",
+        "stt": "36",
+        "giaVe": 90000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55277,
+        "tenGhe": "37",
+        "maRap": 500,
+        "loaiGhe": "Vip",
+        "stt": "37",
+        "giaVe": 90000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55278,
+        "tenGhe": "38",
+        "maRap": 500,
+        "loaiGhe": "Vip",
+        "stt": "38",
+        "giaVe": 90000.0,
+        "daDat": false,
+        "taiKhoanNguoiDat": null
+      },
+      {
+        "maGhe": 55279,
+        "tenGhe": "39",
+        "maRap": 500,
+        "loaiGhe": "Vip",
+        "stt": "39",
+        "giaVe": 90000.0,
+        "daDat": true,
+        "taiKhoanNguoiDat": "bruno@email.com"
+      },
+      {
+        "maGhe": 55280,
+        "tenGhe": "40",
+        "maRap": 500,
+        "loaiGhe": "Vip",
+        "stt": "40",
+        "giaVe": 90000.0,
+        "daDat": true,
+        "taiKhoanNguoiDat": "bruno@email.com"
+      }
+    ]
   }
 ]
