@@ -39,23 +39,8 @@
                   "ngayChieuGioChieu": "2022-05-28T11:30:00",
                   "giaVe": 75000.0,
                   "thoiLuong": 120
-                },
-                {
-                  "maLichChieu": "45843",
-                  "maRap": "457",
-                  "tenRap": "Rạp 7",
-                  "ngayChieuGioChieu": "2022-05-10T04:41:54",
-                  "giaVe": 150000.0,
-                  "thoiLuong": 120
-                },
-                {
-                  "maLichChieu": "45845",
-                  "maRap": "456",
-                  "tenRap": "Rạp 6",
-                  "ngayChieuGioChieu": "2022-06-21T11:34:18",
-                  "giaVe": 89789.0,
-                  "thoiLuong": 120
                 }
+            
               ],
               "maCumRap": "bhd-star-cineplex-3-2",
               "tenCumRap": "BHD Star Cineplex - 3/2",
@@ -157,24 +142,11 @@
                 {
                   "maLichChieu": "45816",
                   "tenRap": "Rạp 7",
-                  "ngayChieuGioChieu": "2022-05-27T12:43:31",
+                  "ngayChieuGioChieu": "2022-06-27T12:43:31",
                   "giaVe": 90000.0,
-                  "thoiLuong": 120
-                },
-                {
-                  "maLichChieu": "45817",
-                  "tenRap": "Rạp 9",
-                  "ngayChieuGioChieu": "2022-05-27T12:43:31",
-                  "giaVe": 90000.0,
-                  "thoiLuong": 120
-                },
-                {
-                  "maLichChieu": "45846",
-                  "tenRap": "Rạp 4",
-                  "ngayChieuGioChieu": "2022-06-01T00:04:00",
-                  "giaVe": 75421.0,
                   "thoiLuong": 120
                 }
+             
               ],
               "maCumRap": "bhd-star-cineplex-bitexco",
               "tenCumRap": "BHD Star Cineplex - Bitexco",
@@ -194,7 +166,7 @@
                   "maLichChieu": "45807",
                   "maRap": "511",
                   "tenRap": "Rạp 8",
-                  "ngayChieuGioChieu": "2022-05-27T12:35:58",
+                  "ngayChieuGioChieu": "2022-06-10T12:35:58",
                   "giaVe": 90000.0,
                   "thoiLuong": 120
                 }
@@ -203,44 +175,9 @@
               "tenCumRap": "CGV - Aeon Bình Tân",
               "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
               "diaChi": "Tầng 3, TTTM Aeon Mall Bình Tân, Số 1 đường số 17A, khu phố 11, Bình Trị Đông B, Bình Tân"
-            },
-            {
-              "lichChieuPhim": [
-                {
-                  "maLichChieu": "45820",
-                  "tenRap": "Rạp 4",
-                  "ngayChieuGioChieu": "2022-05-28T12:51:09",
-                  "giaVe": 90000.0,
-                  "thoiLuong": 120
-                }
-              ],
-              "maCumRap": "cgv-golden-plaza",
-              "tenCumRap": "CGV - Golden Plaza",
-              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
-              "diaChi": "Tầng 4, Trung tâm thương mại Golden Plaza, 922 Nguyễn Trãi, P. 14, Q. 5"
-            },
-            {
-              "lichChieuPhim": [
-                {
-                  "maLichChieu": "45839",
-                  "tenRap": "Rạp 5",
-                  "ngayChieuGioChieu": "2022-05-28T07:05:18",
-                  "giaVe": 90000.0,
-                  "thoiLuong": 120
-                },
-                {
-                  "maLichChieu": "45847",
-                  "tenRap": "Rạp 4",
-                  "ngayChieuGioChieu": "2022-06-27T11:12:21",
-                  "giaVe": 150000.0,
-                  "thoiLuong": 120
-                }
-              ],
-              "maCumRap": "cgv-cgv-saigonres-nguyen-xi",
-              "tenCumRap": "CGV - CGV Saigonres Nguyễn Xí",
-              "hinhAnh": "https://s3img.vcdn.vn/123phim/2021/01/bhd-star-bitexco-16105952137769.png",
-              "diaChi": "Tầng 4-5, Saigonres Plaza, 79/81 Nguyễn Xí, P. 26, Bình Thạnh"
             }
+          
+          
           ],
           "maHeThongRap": "CGV",
           "tenHeThongRap": "cgv",
