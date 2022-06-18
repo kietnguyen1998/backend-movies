@@ -127,7 +127,8 @@ server.post("/auth/getInfo", (req, res) => {
       req.headers.authorization.split(" ")[1],
       SECRET_KEY
     );
-    res.status(200).send(decoded);
+    const userLogin = userdb.users.find((user) => user.email === decoded.email)
+    res.status(200).send(userLogin);
   } catch (err) {
     return res.status(401).send("Invalid Token");
   }
