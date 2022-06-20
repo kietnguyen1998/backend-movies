@@ -44,7 +44,7 @@ function isAuthenticated({ email, password }) {
 server.post("/auth/register", (req, res) => {
   console.log("register endpoint called; request body:");
   console.log(req.body);
-  const { email, password, phone, fullName, role } = req.body;
+  const { email, password, phone, name, role } = req.body;
 
   if (isExist({ email }) === true) {
     const status = 401;
@@ -72,7 +72,7 @@ server.post("/auth/register", (req, res) => {
       id: last_item_id + 1,
       email: email,
       password: password,
-      fullName: fullName,
+      name: name,
       phone: phone,
       role: role,
     }); //add some data
@@ -132,7 +132,7 @@ server.post("/auth/getInfo", (req, res) => {
   } catch (err) {
     return res.status(401).send("Invalid Token");
   }
-  return next();
+   next();
 });
 
 server.use("/userList", (req, res, next) => {
